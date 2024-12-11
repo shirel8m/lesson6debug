@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Point.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\Point.h",
               "RelativeDocumentMoniker": "MyPointExactly\\Point.h",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "MyPointExactly\\Point.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-11T16:13:32.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T16:13:32.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Point.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\Point.cpp",
               "RelativeDocumentMoniker": "MyPointExactly\\Point.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\Point.cpp",
               "RelativeToolTip": "MyPointExactly\\Point.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T16:13:28.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\main.cpp",
               "RelativeDocumentMoniker": "MyPointExactly\\main.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimimBsem1\\EkronotMagshi\\lesson6\\lesson6debug\\DebugWorkshop\\MyPointExactly\\main.cpp",
               "RelativeToolTip": "MyPointExactly\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T16:13:27.153Z",
               "EditorCaption": ""
