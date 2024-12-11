@@ -25,11 +25,22 @@ Point::~Point()
 	delete _coord;
 }
 
-Point& Point::operator=(const Point& other)
+Point& Point::operator=(const Point& other) //this function is doing a shallo copy and not a dip copy
 {
+	/*
 	delete _coord;
 	_coord = new int[2];
 	memcpy(_coord, other._coord, 2);
+	return *this;
+	*/
+	//fixed:  // part 2 debug
+	if(this != &other)
+	{
+		delete[] _coord;
+		_coord = new int[2];
+		_coord[0] = other._coord[0];
+		_coord[1] = other._coord[1];
+	}
 	return *this;
 }
 
