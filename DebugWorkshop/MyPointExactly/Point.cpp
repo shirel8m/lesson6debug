@@ -16,8 +16,14 @@ Point::Point(int x, int y)
 
 Point::Point(const Point& other)
 {
+	/*
 	delete _coord;
-	_coord = other._coord;
+	_coord = other._coord; //shalow copy
+	*/
+	//part 3
+	_coord = new int[2];
+	_coord[0] = other._coord[0];
+	_coord[1] = other._coord[1];
 }
 
 Point::~Point()
